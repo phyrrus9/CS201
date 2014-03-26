@@ -1,0 +1,9 @@
+hydrogen:Project6 phyrrus9$ ./a.out 27 44 18 99 5 23 60 28
+inorder:
+5 18 23 27 28 44 60 99 
+preorder:
+27 18 5 23 44 28 99 60 
+postorder:
+5 23 18 28 60 99 44 27 
+breadthFirst:
+27 18 44 5 23 28 99 60

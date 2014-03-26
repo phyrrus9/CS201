@@ -1,0 +1,2 @@
+I found that the tree was a major pain in the butt to understand. After a while, Dylan suggested a completely insane method, but I figured I might as well try it. After that point, the tree stopped adding duplicate nodes.
+Would be nice to have one like: "implement this whole thing with no classes (C), and that can handle multiple data types at the same time".

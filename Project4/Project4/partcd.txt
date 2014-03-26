@@ -1,0 +1,13 @@
+Part C: ./a.out 240 0.9 2.3 queues 0 >> partcd.txt
+1 (queues=3): Max wait: 204 Mean wait: 75.3077
+2 (queues=4): Max wait: 192 Mean wait: 72.0741
+3 (queues=5): Max wait: 181 Mean wait: 65.24
+4 (queues=6): Max wait: 201 Mean wait: 75.7273
+
+Part D: ./a.out 240 3 4 queues 0 >> partcd.txt
+1 (queues=12): Max wait: 212 Mean wait: 90.9556
+2 (queues=16): Max wait: 206 Mean wait: 91.3333
+3 (queues=18): Max wait: 213 Mean wait: 97.525
+
+Comments:
+I think that my snippet to determine the wait time is a little off, but I tried my best. Everything else in the code has been thoroughly checked, debugged, and eventually rewritten.

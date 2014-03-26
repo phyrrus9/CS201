@@ -1,0 +1,6 @@
+a(freq=3, depth=0)
+ b(freq=1, depth=1)
+ bb(freq=2, depth=2)
+ cc(freq=3, depth=3)
+ d(freq=1, depth=4)
+ 

@@ -1,0 +1,418 @@
+Part B: FAST=1 ./a.out 60 1.8 4.2 8 1 > partb.txt
+
+Minute 1:
+Minute 2:
+Minute 3:
+	 Mary Arrives
+	 Elizabet Arrives
+	 Sarah Arrives
+Minute 4:
+	 Ann Arrives
+	 Catherin Arrives
+	 Susan Arrives
+	 Nancy Arrives
+Minute 5:
+	 Margaret Arrives
+	 Jane Arrives
+Minute 6:
+	 Martha Arrives
+	 Hannah Arrives
+Minute 7:
+Minute 8:
+	 Lucy Arrives
+Minute 9:
+	 Rebecca Arrives
+	 Harriet Arrives
+	 Emily Arrives
+Minute 10:
+	 Caroline Arrives
+Minute 11:
+	 Julia Arrives
+	Mary leaves after waiting 2 minutes
+Minute 12:
+	 Lydia Arrives
+	 Lou Arrives
+	Sarah leaves after waiting 2 minutes
+Minute 13:
+	 Rachel Arrives
+	 Frances Arrives
+	 Ellen Arrives
+Minute 14:
+	 Betty Arrives
+	 Phebe Arrives
+	Susan leaves after waiting 3 minutes
+Minute 15:
+	 Matilda Arrives
+	 Sally Arrives
+Minute 16:
+	 Abigail Arrives
+	 Esther Arrives
+	Elizabet leaves after waiting 11 minutes
+Minute 17:
+	 Charlott Arrives
+	Catherin leaves after waiting 3 minutes
+Minute 18:
+Minute 19:
+	 Ruth Arrives
+	 Sophia Arrives
+	 Ada Arrives
+	 Amanda Arrives
+Minute 20:
+	 Lavinia Arrives
+	 Rose Arrives
+Minute 21:
+	 Clara Arrives
+Minute 22:
+	 Cynthia Arrives
+	 Dahlia Arrives
+Minute 23:
+	 Laura Arrives
+	 Eunice Arrives
+	Ann leaves after waiting 12 minutes
+Minute 24:
+	 Malinda Arrives
+	 Isabella Arrives
+	 Barbara Arrives
+	 Mahala Arrives
+	Nancy leaves after waiting 14 minutes
+Minute 25:
+	 Deborah Arrives
+	 Olive Arrives
+Minute 26:
+	 Rhonda Arrives
+Minute 27:
+Minute 28:
+	 Evelyn Arrives
+Minute 29:
+Minute 30:
+	 Amelia Arrives
+	Margaret leaves after waiting 17 minutes
+Minute 31:
+	 Almira Arrives
+	 Joan Arrives
+	 Angel Arrives
+Minute 32:
+	 Priscill Arrives
+	 Charity Arrives
+	 Christia Arrives
+Minute 33:
+	 Jemima Arrives
+	 Milicent Arrives
+	Martha leaves after waiting 23 minutes
+Minute 34:
+Minute 35:
+	Jane leaves after waiting 16 minutes
+Minute 36:
+	 Electa Arrives
+	Lucy leaves after waiting 24 minutes
+Minute 37:
+	 Helen Arrives
+	 Melinda Arrives
+Minute 38:
+	 Cora Arrives
+	 Sophrona Arrives
+	 Henriett Arrives
+	 Alice Arrives
+	 PermiliaJohn Arrives
+Minute 39:
+	 Michael Arrives
+	 Joseph Arrives
+	 Christop Arrives
+	 Matthew Arrives
+Minute 40:
+	 Josuah Arrives
+	 Nicholas Arrives
+Minute 41:
+	 Jacob Arrives
+	 James Arrives
+	 Daniel Arrives
+Minute 42:
+Minute 43:
+Minute 44:
+Minute 45:
+	 Andrew Arrives
+	 Alexande Arrives
+Minute 46:
+	 Tyler Arrives
+	 David Arrives
+	 Brandon Arrives
+	Hannah leaves after waiting 30 minutes
+Minute 47:
+Minute 48:
+Minute 49:
+	 Robert Arrives
+	 Ryan Arrives
+	Harriet leaves after waiting 33 minutes
+Minute 50:
+	 William Arrives
+	 Zachary Arrives
+Minute 51:
+	 Justin Arrives
+	 Anthony Arrives
+	Caroline leaves after waiting 36 minutes
+Minute 52:
+	 Stephen Arrives
+	 Brian Arrives
+	 Austin Arrives
+Minute 53:
+Minute 54:
+	Rebecca leaves after waiting 36 minutes
+Minute 55:
+	 Kyle Arrives
+Minute 56:
+	 Kevin Arrives
+	 Thomas Arrives
+Minute 57:
+	 Nathan Arrives
+	 Cody Arrives
+Minute 58:
+	 Shawn Arrives
+	 Richard Arrives
+	 Jordan Arrives
+Minute 59:
+	 Eric Arrives
+	 Benjamin Arrives
+	 Aaron Arrives
+Minute 60:
+	 Mark Arrives
+	 Samuel Arrives
+	 Dylan Arrives
+Max wait: 36 Mean wait: 17.4667
+
+Run 2: FAST=1 ./a.out 60 2.5 4.2 11 1 >> partb.txt
+Minute 1:
+Minute 2:
+	 Mary Arrives
+	 Elizabet Arrives
+Minute 3:
+	 Sarah Arrives
+	 Ann Arrives
+	 Catherin Arrives
+	 Susan Arrives
+	 Nancy Arrives
+Minute 4:
+	 Margaret Arrives
+	 Jane Arrives
+	 Martha Arrives
+	 Hannah Arrives
+Minute 5:
+	 Lucy Arrives
+	 Rebecca Arrives
+	 Harriet Arrives
+	 Emily Arrives
+	 Caroline Arrives
+Minute 6:
+	 Julia Arrives
+	 Lydia Arrives
+	 Lou Arrives
+	 Rachel Arrives
+	 Frances Arrives
+	 Ellen Arrives
+Minute 7:
+	 Betty Arrives
+	 Phebe Arrives
+Minute 8:
+	 Matilda Arrives
+	 Sally Arrives
+	 Abigail Arrives
+Minute 9:
+	 Esther Arrives
+	 Charlott Arrives
+	 Ruth Arrives
+Minute 10:
+	 Sophia Arrives
+Minute 11:
+	 Ada Arrives
+	 Amanda Arrives
+	 Lavinia Arrives
+	Mary leaves after waiting 1 minutes
+Minute 12:
+	 Rose Arrives
+Minute 13:
+	 Clara Arrives
+	 Cynthia Arrives
+Minute 14:
+	 Dahlia Arrives
+	 Laura Arrives
+Minute 15:
+	 Eunice Arrives
+	 Malinda Arrives
+Minute 16:
+	 Isabella Arrives
+	 Barbara Arrives
+	 Mahala Arrives
+Minute 17:
+	Catherin leaves after waiting 2 minutes
+	 Deborah Arrives
+	 Olive Arrives
+	 Rhonda Arrives
+	Sarah leaves after waiting 2 minutes
+Minute 18:
+	Nancy leaves after waiting 2 minutes
+	 Evelyn Arrives
+	 Amelia Arrives
+	Elizabet leaves after waiting 11 minutes
+Minute 19:
+	 Almira Arrives
+	 Joan Arrives
+	 Angel Arrives
+	 Priscill Arrives
+Minute 20:
+	 Charity Arrives
+Minute 21:
+	 Christia Arrives
+	 Jemima Arrives
+	 Milicent Arrives
+	 Electa Arrives
+Minute 22:
+	 Helen Arrives
+	 Melinda Arrives
+	 Cora Arrives
+Minute 23:
+	 Sophrona Arrives
+	 Henriett Arrives
+	 Alice Arrives
+Minute 24:
+	 PermiliaJohn Arrives
+	 Michael Arrives
+Minute 25:
+	 Joseph Arrives
+Minute 26:
+	 Christop Arrives
+	 Matthew Arrives
+	 Josuah Arrives
+Minute 27:
+	 Nicholas Arrives
+	 Jacob Arrives
+Minute 28:
+	Susan leaves after waiting 16 minutes
+Minute 29:
+	 James Arrives
+	 Daniel Arrives
+	 Andrew Arrives
+Minute 30:
+	 Alexande Arrives
+	 Tyler Arrives
+	 David Arrives
+	 Brandon Arrives
+Minute 31:
+	Margaret leaves after waiting 17 minutes
+	 Robert Arrives
+	 Ryan Arrives
+	 William Arrives
+	 Zachary Arrives
+Minute 32:
+	 Justin Arrives
+	 Anthony Arrives
+	Ann leaves after waiting 17 minutes
+	Jane leaves after waiting 17 minutes
+Minute 33:
+	 Stephen Arrives
+	 Brian Arrives
+Minute 34:
+	 Austin Arrives
+Minute 35:
+Minute 36:
+	 Kyle Arrives
+	 Kevin Arrives
+	 Thomas Arrives
+	 Nathan Arrives
+	 Cody Arrives
+	 Shawn Arrives
+Minute 37:
+	 Richard Arrives
+	 Jordan Arrives
+	 Eric Arrives
+	 Benjamin Arrives
+Minute 38:
+	 Aaron Arrives
+	 Mark Arrives
+	 Samuel Arrives
+Minute 39:
+	Martha leaves after waiting 32 minutes
+	 Dylan Arrives
+Minute 40:
+	 Timothy Arrives
+	 Adam Arrives
+	 Jeremiah Arrives
+	 Lewis Arrives
+Minute 41:
+	 Charles Arrives
+Minute 42:
+	 Jeffrey Arrives
+	 Patrick Arrives
+	 Jason Arrives
+	 Jesse Arrives
+	 Derek Arrives
+Minute 43:
+	 Juan Arrives
+	 Cameron Arrives
+	 Travis Arrives
+	 Kenneth Arrives
+Minute 44:
+	 Caleb Arrives
+	 Carlos Arrives
+	 Jared Arrives
+	Lucy leaves after waiting 30 minutes
+Minute 45:
+	 Ethan Arrives
+	 Taylor Arrives
+	Hannah leaves after waiting 29 minutes
+	 Logan Arrives
+	 Paul Arrives
+	 Trevor Arrives
+	Rebecca leaves after waiting 32 minutes
+Minute 46:
+	 Dustin Arrives
+	 Edward Arrives
+	 Evan Arrives
+	 Gabriel Arrives
+	 Mary Arrives
+Minute 47:
+	 Elizabet Arrives
+Minute 48:
+	 Sarah Arrives
+	 Ann Arrives
+	 Catherin Arrives
+Minute 49:
+	 Susan Arrives
+Minute 50:
+	 Nancy Arrives
+	 Margaret Arrives
+	 Jane Arrives
+	 Martha Arrives
+Minute 51:
+	 Hannah Arrives
+	 Lucy Arrives
+	 Rebecca Arrives
+	 Harriet Arrives
+	 Emily Arrives
+	Harriet leaves after waiting 38 minutes
+Minute 52:
+Minute 53:
+	 Caroline Arrives
+	 Julia Arrives
+Minute 54:
+	 Lydia Arrives
+	 Lou Arrives
+Minute 55:
+	 Rachel Arrives
+	 Frances Arrives
+Minute 56:
+	 Ellen Arrives
+	 Betty Arrives
+	 Phebe Arrives
+	 Matilda Arrives
+Minute 57:
+	 Sally Arrives
+	 Abigail Arrives
+	 Esther Arrives
+Minute 58:
+	 Charlott Arrives
+Minute 59:
+	 Ruth Arrives
+	 Sophia Arrives
+Minute 60:
+	 Ada Arrives
+	 Amanda Arrives
+Max wait: 38 Mean wait: 17.5714
